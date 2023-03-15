@@ -1,0 +1,120 @@
+﻿Dollars
+50,  20
+20,  20
+10,  20
+5,   30
+2,   30
+1,   30
+
+Products # Name-Price-Quantity
+Peruvian Juice 250, 2, 20
+Canadian Juice 250, 4, 20
+Mexican  Juice 250, 3, 20
+American Juice 250, 5, 20
+Colombian Juice 250, 1, 20 
+Peruvian Coke 250, 2, 20
+Canadian Coke 250, 4, 20
+Mexican  Coke 250, 3, 20
+American Coke 250, 5, 20
+Colombian Coke 250, 1, 20 
+Peruvian Coke 250, 2, 20
+Canadian Coke 250, 4, 20
+Mexican  Coke 250, 3, 20
+American Coke 250, 5, 20
+Colombian Coke 250, 1, 20 
+Peruvian Coke 350, 2, 20
+Canadian Coke 350, 4, 20
+Mexican  Coke 350, 3, 20
+American Coke 350, 5, 20
+Colombian Coke 350, 1, 20 
+Peruvian Cookies, 4, 20
+Canadian Cookies, 8, 20
+Mexican  Cookies, 6, 20
+American Cookies, 10, 20
+Colombian Cookies, 2, 20 
+Peruvian Organic Cookies, 10, 20
+Canadian Organic Cookies, 18, 20
+Mexican  Organic Cookies, 16, 20
+American Organic Cookies, 20, 20
+Colombian Organic Cookies, 8, 20 
+Peruvian Organic Cookies, 7, 20
+Canadian Organic Cookies, 8, 20
+Mexican  Organic Cookies, 6, 20
+American Organic Cookies, 15, 20
+Colombian Organic Cookies, 5, 20 
+Peruvian Cake 80gr, 5, 20
+Canadian Cake 80gr, 7, 20
+Mexican  Cake 80gr, 6, 20
+American Cake 80gr, 9, 20
+Colombian Cake 80gr, 3, 20 
+Peruvian Cake 100gr, 6, 20
+Canadian Cake 100gr, 8, 20
+Mexican  Cake 100gr, 7, 20
+American Cake 100gr, 10, 20
+Colombian Cake 100gr, 4, 20 
+
+Quick Purchase # Basic Level Name - Quantity - Money (75 = 50+20+5; 95 = 50+20+20+5; 105 = 100+5; 205 = 100+100+5)
+Peruvian Juice 250, 5, 50
+Canadian Juice 250, 5, 50
+Mexican  Juice 250, 5, 50
+American Juice 250, 5, 50
+Colombian Juice 250, 5, 50
+Peruvian Organic Cookies, 5, 200
+Canadian Organic Cookies, 5, 200
+Mexican  Organic Cookies, 5, 200
+American Organic Cookies, 5, 200
+Colombian Organic Cookies, 5, 200 
+Peruvian Organic Cookies, 5, 200
+Canadian Organic Cookies, 5, 200
+Mexican  Organic Cookies, 5, 200
+American Organic Cookies, 5, 200
+Colombian Organic Cookies, 5, 200 
+Peruvian Cookies, 15, 200
+Canadian Cookies, 15, 200
+Mexican  Cookies, 15, 200
+American Cookies, 15, 200
+Colombian Cookies, 5, 200 
+Peruvian Cookies, 5, 200
+Canadian Cookies, 5, 200
+Mexican  Cookies, 5, 200
+American Cookies, 5, 200
+Colombian Cookies, 5, 200 
+Peruvian Juice 250, 5, 20
+Canadian Juice 250, 5, 20
+Mexican  Juice 250, 5, 20
+American Juice 250, 5, 20
+Colombian Juice 250, 5, 20
+Peruvian Organic Cookies, 15, 400
+Canadian Organic Cookies, 15, 400
+Mexican  Organic Cookies, 15, 400
+American Organic Cookies, 15, 400
+Colombian Organic Cookies, 15, 400 
+Peruvian Juice 250, 15, 150
+Canadian Juice 250, 15, 150
+Mexican  Juice 250, 15, 150
+American Juice 250, 15, 150
+Colombian Juice 250, 15, 150
+
+
+Quick Purchase 2 # Advanced Level Name - Quantity - Money (75 = 50+20+5; 95 = 50+20+20+5; 105 = 100+5; 205 = 100+100+5)
+(Peruvian Cake 80gr, 5; Canadian Cake 80gr, 5;Mexican  Cake 80gr, 5; American Cake 80gr, 5; Colombian Cake 80gr, 5; 100)
+(Peruvian Cake 80gr, 5; Canadian Cake 80gr, 5;Mexican  Cake 80gr, 5; American Cake 80gr, 5; Colombian Cake 80gr, 5; 200)
+(Peruvian Cake 80gr, 5; Canadian Cake 80gr, 5;Mexican  Cake 80gr, 5; American Cake 80gr, 5; Colombian Cake 80gr, 5; 300)
+(Peruvian Cake 80gr, 5; Canadian Cake 80gr, 5;Mexican  Cake 80gr, 5; American Cake 80gr, 5; Colombian Cake 80gr, 5; 400)
+(Peruvian Cake 80gr, 5; Canadian Cake 80gr, 5;Mexican  Cake 80gr, 5; American Cake 80gr, 5; Colombian Cake 80gr, 5; 500)
+(Peruvian Cake 100gr, 5; Canadian Cake 100gr, 5;Mexican  Cake 100gr, 5; American Cake 100gr, 5; Colombian Cake 100gr, 5; 400)
+(Peruvian Cake 100gr, 5; Canadian Cake 100gr, 5;Mexican  Cake 100gr, 5; American Cake 100gr, 5; Colombian Cake 100gr, 5; 500)
+(Peruvian Cake 100gr, 5; Canadian Cake 100gr, 5;Mexican  Cake 100gr, 5; American Cake 100gr, 5; Colombian Cake 100gr, 5; 600)
+(Peruvian Cake 100gr, 5; Canadian Cake 100gr, 5;Mexican  Cake 100gr, 5; American Cake 100gr, 5; Colombian Cake 100gr, 5; 700)
+(Peruvian Cake 100gr, 5; Canadian Cake 100gr, 5;Mexican  Cake 100gr, 5; American Cake 100gr, 5; Colombian Cake 100gr, 5; 800)
+
+
+
+
+
+
+
+
+
+
+
